@@ -13,23 +13,6 @@ Welcome to **Flutter Application 1**! This is a cross-platform mobile app built 
 - State management ready
 - Asset and font management
 
-##  Getting Started
-
-
-	```
- **Install dependencies:**
-	```sh
-	flutter pub get
-	```
-    Unpack the .dart_tool directory (if provided as an archive):
-    Place the unpacked .dart_tool folder in the project root.
-    This directory contains build configuration and tools required for stable project launch.
-
- **Run the app:**
-	```sh
-	flutter run
-	```
-
 ##  Potential Features to Add
 - Authentication (Google, Facebook, Email)
 - Push notifications
